@@ -3,12 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/material": "^5.14.20",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "cjs-eslint": "^2.1.0",
+    "editor.md": "^1.5.0",
+    "firebase": "^10.7.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.9.1",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.21.0",
+    "react-scripts": "^5.0.1",
+    "react-spring": "^9.7.3",
+    "sweetalert2": "^11.10.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -17,11 +30,16 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.5"
   },
   "browserslist": {
     "production": [

@@ -1,0 +1,22 @@
+.border{
+  text-align: center;
+  justify-items: center;
+}
+
+.car{
+    background-color: #fdf9eec2;
+    margin: 10px 50px 10px 50px;
+    border-radius: 10%;
+  }
+
+  .fot {
+    width: 200px; 
+    height: auto; 
+    margin: 10px 25px 0px 30px;
+  }
+
+  .card-tex{
+    text-align: center;
+    font-size:small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
